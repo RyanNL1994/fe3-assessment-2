@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    font-family: sans-serif;
+}
+
+.bar {
+    fill: black;
+}
+
+.bar:hover {
+    fill: yellow;
+    transition: all 1s;
+}
+
+label {
+    display: block;
+}
