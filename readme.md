@@ -39,8 +39,10 @@ http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=81573NED&D1=24&D2=0&D3=a&
 
 ## Bronnen
 Ik heb deze grafiek kunnen maken met dank aan Mike Bostock waarvan ik een groot deel van de code vandaan heb van de grafiek. Deze kan je vinden op de volgende site: https://bl.ocks.org/mbostock/3885304
+
 Ook met dank aan Titus Wormer waar ik de code van heb kunnen inzien voor de sort function via de volgende link: https://cmda-fe3.github.io/course-17-18/class-4/sort/
 Samen met de slides van class 4.
+
 Voor het opschonen van de dataset in javascript heb ik veel gehad aan de slides van class 3 en uitleg in een chat van de font end slack van @deshlieee. Samen met hulp van een klasgenoot waarmee ik samen heb gewerkt @duy-linh
 
 
